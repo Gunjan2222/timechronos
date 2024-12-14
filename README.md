@@ -106,6 +106,10 @@ TimeChronos is a comprehensive solution for managing employee timesheets on a we
 
 ---
 
+## Screeshots
+
+![Login Screenshot](https://github.com/Gunjan2222/timechronos/blob/main/login.jpg?raw=true)
+![SignUp Screeshot](https://github.com/Gunjan2222/timechronos/blob/main/signup.jpg?raw=true)
 ---
 
 ## API Endpoints
