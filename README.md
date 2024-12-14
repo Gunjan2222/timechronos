@@ -122,8 +122,8 @@ TimeChronos is a comprehensive solution for managing employee timesheets on a we
 ## Contact
 
 - *Author:* Prerna Shekhawat  
-- *Email:* shekhawatprerna3@gmail.com  
-- *GitHub:* Prernashekhawat3
+- *Email:* gunagarwal999@gmail.com  
+- *GitHub:* Gunjan2222
 
 --- 
 
