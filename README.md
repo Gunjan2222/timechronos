@@ -113,9 +113,9 @@ TimeChronos is a comprehensive solution for managing employee timesheets on a we
 | Method | Endpoint         | Description                      |
 |--------|------------------|----------------------------------|                   
 | POST   | /login         | Employee/Admin login            |
-| POST   | /register     | Submit timesheet data      
+| POST   | /register     | Sign Up
 | POST   | /addtimesheet     | Add timesheet data        |
-| GET    | /approvetimesheet       | Approve weekly timesheet|
+| POST    | /approvetimesheet       | Approve weekly timesheet|
 
 ---
 
